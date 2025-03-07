@@ -1,0 +1,16 @@
+body{
+    background-image: url(./san.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.a {
+    text-align: center;
+    text-decoration: bisque;
+    font-size: 20px;
+}
+.div{
+    color: burlywood;
+}
+ 
